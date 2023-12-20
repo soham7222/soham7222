@@ -1,6 +1,6 @@
 # Hey, This is Soham Chakraborty! 👋
 
-I'm a senior software engineer at [Thoughtworks](https://www.thoughtworks.com/), passionate about crafting scalable and robust software solutions. I thrive on innovation, working across diverse technologies to create cutting-edge applications.
+I'm a senior software engineer at Thoughtworks, passionate about crafting scalable and robust software solutions. I thrive on innovation, working across diverse technologies to create cutting-edge applications.
 
 ## About Me
 - 🌟 I contribute to open-source projects and continuously explore new technologies.
