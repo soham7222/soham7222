@@ -16,7 +16,7 @@ I'm a senior software engineer at Thoughtworks, passionate about crafting scalab
     ![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)
 
 - ☁️ **Cloud:** 
-    ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+   ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
 
 - 🛢️ **Databases:** 
     ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white) ![NoSQL](https://img.shields.io/badge/-NoSQL-4DB33D?logo=nosql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
