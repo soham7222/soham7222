@@ -10,7 +10,7 @@ I'm a senior software engineer at Thoughtworks, passionate about crafting scalab
 ## Tech Stack
 
 - 🌐 **Frontend:** 
-    ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+    [![React](https://img.shields.io/badge/React-16.x-blue.svg)](https://reactjs.org/) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 - 💻 **Backend:** 
     ![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)
